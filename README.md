@@ -39,3 +39,7 @@ Frontend - https://djd7u8igle4e3.cloudfront.net/
 -----------
 
 # __Swagger documentation__
+
+You can try to __make requests__ form Swagger UI to app`s API:
+
+https://app.swaggerhub.com/apis/lubeckiy/AWS_NodeJS/1.0.0-oas3
